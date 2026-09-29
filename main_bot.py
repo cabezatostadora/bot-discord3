@@ -32,4 +32,4 @@ async def emoji(ctx):
 async def coin(ctx):
     await ctx.send("salio:"+ flip_coin())
 
-bot.run("MTU0OTU2MTIzMTEzOTAxMjYyOA.GoEDj5.2w6GdolMwBo3gA7U76cMJjL_yQ8j-KDetOMQOM")
+bot.run("Token")
